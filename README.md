@@ -9,16 +9,17 @@ Agenda
 - [Liquid Donations](https://github.com/liquid-donations/reimagine-giving)
 - [Social Donations Survey](https://docs.google.com/forms/d/e/1FAIpQLScLmK5lTRoY27r0a760BLL3QJXa2ke9M0lg9U7OPG3KHKpqTw/viewform)
 - [The GiveWell Fund](https://www.givewell.org/)
--
+
 <details>
 <summary>The GitHub GiveWell calculas</summary>
 <br>
-$1811
-= $2500 with tax credit 
-+ $2500 matched 
-= $5000 
-= 762 malaria pills 
+$1811<br>
+= $2500 with tax credit <br>
++ $2500 matched <br>
+= $5000 <br>
+= 762 malaria pills <br>
 = **save 1 person's life** </details>
+
 - [Effective Altruism](https://www.centreforeffectivealtruism.org/)
 - [I'm writing a quickstart guide for OS](https://github.com/veganpolice/DHIS2-Quickstart)
 - [Skills based volunteering](https://github.com/github/SI-skills-based-volunteering)
