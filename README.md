@@ -3,7 +3,7 @@
 ## The world is pretty messed up... How can I help? 
 
 Agenda
-- "[Game B](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)", [Jim Rutt](https://www.jimruttshow.com/), [Daniel Schmachtenberger](http://civilizationemerging.com/)
+- "[Game B](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)", [Jim Rutt](https://www.jimruttshow.com/), [Daniel Schmachtenberger](http://civilizationemerging.com/), [Will Macaskill](https://www.williammacaskill.com/)
 - [Reimagine Charitible Giving  Competition](https://www.openideo.com/challenge-briefs/reimagine-charitable-giving-challenge)
 - [Liquid Democracy](https://en.wikipedia.org/wiki/Liquid_democracy#:~:text=Liquid%20democracy%20is%20a%20form,or%20proposed%20popular%2Dcontrol%20apparatuses.) 
 - [Liquid Donations](https://github.com/liquid-donations/reimagine-giving)
