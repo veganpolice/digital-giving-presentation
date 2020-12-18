@@ -22,4 +22,4 @@ Agenda
 
 - [Effective Altruism](https://www.centreforeffectivealtruism.org/)
 - [I'm writing a quickstart guide for OS](https://github.com/veganpolice/DHIS2-Quickstart)
-- [Skills based volunteering](https://github.com/github/SI-skills-based-volunteering)
+- [Skills based volunteering @ GitHub](https://github.com/github/SI-skills-based-volunteering)
