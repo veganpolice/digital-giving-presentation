@@ -10,7 +10,7 @@ Agenda
 - [Social Donations Survey](https://docs.google.com/forms/d/e/1FAIpQLScLmK5lTRoY27r0a760BLL3QJXa2ke9M0lg9U7OPG3KHKpqTw/viewform)
 - [The GiveWell Fund](https://www.givewell.org/)
 
-<details>
+- <details>
 <summary>The GitHub GiveWell calculas = save a life with $1811!</summary>
 <br>
 **$1811**<br>
