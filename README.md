@@ -9,7 +9,8 @@ Agenda
 - [Liquid Donations](https://github.com/liquid-donations/reimagine-giving)
 - [Social Donations Survey](https://docs.google.com/forms/d/e/1FAIpQLScLmK5lTRoY27r0a760BLL3QJXa2ke9M0lg9U7OPG3KHKpqTw/viewform)
 - [The GiveWell Fund](https://www.givewell.org/)
-- <details>
+-
+<details>
 <summary>The GitHub GiveWell calculas</summary>
 <br>
 $1811
