@@ -1,8 +1,6 @@
 # Digital Giving Presentation
 
-## The world is pretty messed up...
-
-## How can I make a difference? 
+## The world is pretty messed up... How can I help? 
 
 Agenda
 - "[Game B](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)", [Jim Rutt](https://www.jimruttshow.com/), [Daniel Schmachtenberger](http://civilizationemerging.com/)
