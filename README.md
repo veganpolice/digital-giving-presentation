@@ -1,8 +1,8 @@
 # Digital Giving Presentation
 
-The world is pretty messed up...
+## The world is pretty messed up...
 
-How can we make a difference? 
+## How can we make a difference? 
 
 Agenda
 - [Jim Rutt Show](https://www.jimruttshow.com/)
