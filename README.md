@@ -6,8 +6,8 @@
 
 Agenda
 - "[Game B](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)", [Jim Rutt](https://www.jimruttshow.com/), [Daniel Schmachtenberger](http://civilizationemerging.com/)
-- [Reimagine charitible giving competition](https://www.openideo.com/challenge-briefs/reimagine-charitable-giving-challenge)
-- [Liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy#:~:text=Liquid%20democracy%20is%20a%20form,or%20proposed%20popular%2Dcontrol%20apparatuses.) 
+- [Reimagine Charitible Giving  Competition](https://www.openideo.com/challenge-briefs/reimagine-charitable-giving-challenge)
+- [Liquid Democracy](https://en.wikipedia.org/wiki/Liquid_democracy#:~:text=Liquid%20democracy%20is%20a%20form,or%20proposed%20popular%2Dcontrol%20apparatuses.) 
 - [Liquid Donations](https://github.com/liquid-donations/reimagine-giving)
 - [Social Donations Survey](https://docs.google.com/forms/d/e/1FAIpQLScLmK5lTRoY27r0a760BLL3QJXa2ke9M0lg9U7OPG3KHKpqTw/viewform)
 - [The GiveWell Fund](https://www.givewell.org/)
